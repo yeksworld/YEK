@@ -1,0 +1,125 @@
+package assignment2;
+
+public class Question1 {
+public static void main(String[] args) {
+	
+	int count=5;
+	System.out.println("a=" +count);
+}
+}
+package assignment2;
+
+public class Question2 {
+public static void main(String[] args) {
+	String message;
+	message="study hard";
+	System.out.println(message);
+	
+}
+}
+package assignment2;
+
+public class Question3 {
+	public static void main(String[] args) {
+		
+		int num=5;
+		double cost=7;
+		System.out.print(num);
+		System.out.println(" " +cost);
+	}
+
+}
+package assignment2;
+
+public class Question4 {
+public static void main(String[] args) {
+	
+	String a;
+	a="Today\'s Word-Of-The-Day is: Java";
+	System.out.println(a);
+}
+}
+package assignment2;
+
+public class Question5 {
+	public static void main(String[] args) {
+		
+		String first,second;
+		first="first is 55";
+		second="second = 123";
+		System.out.print(first +second);
+		
+	}
+
+}
+package assignment2;
+
+public class Question6 {
+public static void main(String[] args) {
+
+	String a,b,c,d,e;
+	a="James";
+	b="Betty";
+	c="Herb";
+	d="Bob";
+	e="Jill";		
+	System.out.println(d+ "," +e +","+ b +"," + c +","+ a  );
+}
+}
+package assignment2;
+
+public class Question7 {
+	public static void main(String[] args) {
+		
+		int i;
+		float f;
+		i=9;
+		f=33.4f;
+		System.out.println("i="+i+" f=" +f);
+	}
+
+}
+package assignment2;
+
+public class Question8 {
+public static void main(String[] args) {
+	
+	String a,b;
+	a="Java";
+	b="SQL";
+	System.out.println("I will learn \"" + a +"\" and \"" + b + "\" " + "at CybertekSchool.");
+}
+}
+package assignment2;
+
+public class Question9 {
+public static void main(String[] args) {
+	
+	//declaration
+	byte steps;
+	short miles;
+	int count;
+	long population;
+
+	//assigned
+	steps=10;
+	miles=5000;
+	count=1000000;
+	population=3434455667;
+}
+}
+package assignment2;
+
+public class Question10 {
+public static void main(String[] args) {
+
+	int hour,minute,second;
+	String A,P;
+	hour=11;
+	minute=33;
+	second=44;
+	A="Am";
+	P="Pm";
+	System.out.println(hour+":"+minute+":"+second+" "+ A);
+}
+}
